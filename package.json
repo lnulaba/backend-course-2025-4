@@ -1,0 +1,19 @@
+{
+  "name": "backend-course-2025-4",
+  "version": "1.0.0",
+  "description": "Лабораторна робота №4: HTTP-сервер на Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "author": "Student",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fast-xml-parser": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

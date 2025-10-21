@@ -7,7 +7,7 @@
     "start": "node main.js",
     "dev": "nodemon main.js"
   },
-  "author": "Student",
+  "author": "Marta Stakhurska",
   "license": "ISC",
   "dependencies": {
     "commander": "^11.0.0",
